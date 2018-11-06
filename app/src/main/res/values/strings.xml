@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Listas</string>
+
+    <string name="ciudad1">Sevilla</string>
+    <string name="ciudad2">Cordoba</string>
+    <string name="ciudad3">Cádiz</string>
+
+    <string-array name="Misciudades">
+        <item>@string/ciudad1</item>
+        <item>@string/ciudad2</item>
+        <item>@string/ciudad3</item>
+    </string-array>
+</resources>
